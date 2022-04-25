@@ -16,9 +16,12 @@
 ```
 
 ***Tech used:***
-- Dataset: https://www.kaggle.com/laowingkin/netflix-movie-recommendation/data
+- Dataset: https://www.kaggle.com/laowingkin/netflix-movie-recommendation/data & TMDB dataset through API
 - Framwork documentation: https://docs.djangoproject.com/en/4.0/
 - SqlLite as db
+
+***Screens:***
+ ![Recommend from search](https://user-images.githubusercontent.com/20341930/165031664-cef76588-2647-4deb-b2ad-ee7c75964297.png)
 
 
 *Note: Few packages might be outdated and might require you to refactor your code based on updates. I have taken down the application serveer for this project.*
